@@ -6,7 +6,7 @@ My journey to learn Full-Stack Development in 60 days.
 
 - [x] Day 01 — HTML Basics
 - [x] Day 02 — HTML Foundations
-- [ ] Day 03 — HTML Forms
+- [x] Day 03 — HTML Forms
 - [ ] Day 04 — CSS Basics
 - [ ] Day 05 — CSS Foundations
 
@@ -38,4 +38,45 @@ Learn Full-Stack Development step by step through tutorials, practice, projects,
 - [x] `<hr>` horizontal line
 - [x] HTML comments
 - [x] Created My Profile webpage
+🚀 Full-Stack Development — Day 3
+
+📅 Topic: HTML Forms
+
+✅ What I Completed Today:
+
+1. Learned the <form> element
+2. Learned <label> for form fields
+3. Created text input using type="text"
+4. Created email input using type="email"
+5. Created age input using type="number"
+6. Created password input using type="password"
+7. Created a Submit button
+8. Built a Student Registration Form
+
+🧠 Key Concepts:
+- <form>
+- <label>
+- <input>
+- type="text"
+- type="email"
+- type="number"
+- type="password"
+- <button>
+- type="submit"
+- id and for
+
+🛠️ Practice Project:
+Student Registration Form
+→ Name
+→ Email
+→ Age
+→ Password
+→ Submit Button
+
+📌 Day 3 — COMPLETED ✅
+
+Tomorrow:
+🎨 Day 4 — CSS Basics
+
+Future Full-Stack Developer loading… ⏳💻🔥
 
