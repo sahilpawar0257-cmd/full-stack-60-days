@@ -79,4 +79,17 @@ Tomorrow:
 🎨 Day 4 — CSS Basics
 
 Future Full-Stack Developer loading… ⏳💻🔥
+## 📚 Daily Progress
+
+### ✅ Day 04 — CSS Basics
+
+- Learned what CSS is
+- Connected CSS with HTML
+- Learned Element selectors
+- Learned Class selectors
+- Learned ID selectors
+- Changed text colors
+- Changed font sizes
+- Installed and used Live Server in VS Code
+- Practiced HTML + CSS together
 
