@@ -7,7 +7,7 @@ My journey to learn Full-Stack Development in 60 days.
 - [x] Day 01 — HTML Basics
 - [x] Day 02 — HTML Foundations
 - [x] Day 03 — HTML Forms
-- [ ] Day 04 — CSS Basics
+- [x] Day 04 — CSS Basics
 - [ ] Day 05 — CSS Foundations
 
 ## 🛠️ Technologies
