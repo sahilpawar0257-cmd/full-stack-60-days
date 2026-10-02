@@ -92,4 +92,9 @@ Future Full-Stack Developer loading… ⏳💻🔥
 - Changed font sizes
 - Installed and used Live Server in VS Code
 - Practiced HTML + CSS together
+  *📚 Day 5 Completed*
+✅ CSS element selector
+✅ CSS class selector
+✅ Practiced changing text colors
+✅ Understood how . is used for classes
 
